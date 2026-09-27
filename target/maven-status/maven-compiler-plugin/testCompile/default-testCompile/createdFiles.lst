@@ -1,0 +1,15 @@
+com\pages\fashion_page.class
+com\pages\uptoaddcart_pages.class
+com\pages\searchpage.class
+com\stefdefination\uptoaddcart_stefdefination.class
+com\stefdefination\SearchWithExcel_stefdefination.class
+com\pages\Titleprice_pages.class
+com\stefdefination\fashion_stefdefination.class
+com\pages\Multiplesearch_pages.class
+com\Testrunner\Runner.class
+com\stefdefination\searchmobile_testcase.class
+com\stefdefination\Filter_stefdefanation.class
+com\pages\searchexcelpage.class
+com\stefdefination\Multiplesearch_stefdefination.class
+com\stefdefination\Titleprice_stefdefination.class
+com\pages\Filter_page.class
